@@ -131,5 +131,6 @@ ChatGPT reply:
 Videos I used for:
 
 1. Step 2 Machine Learning: Python Machine Learning Tutorial (Data Science) by@programmingwithmosh "https://youtu.be/7eh4d6sabA0?si=0nO3y3r9h4naST1L"
-                    Mindmap of video from NoteGPT: ![NoteGPT_MindMap_1728964895209](https://github.com/user-attachments/assets/5132d787-550a-4cce-bb43-14861e1defef)
+
+   Mindmap of video from NoteGPT: ![NoteGPT_MindMap_1728964895209](https://github.com/user-attachments/assets/5132d787-550a-4cce-bb43-14861e1defef)
 

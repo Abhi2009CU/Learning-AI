@@ -15,7 +15,7 @@ data = (data - data.mean()) / data.std()
 
 
 # Load data
-X = data[['SessionDate', 'SessionDate']]  # Features
+X = data[['SessionsDate']]  # Features
 y = data['Website Views']  # Target
 
 # Split into training and test sets
